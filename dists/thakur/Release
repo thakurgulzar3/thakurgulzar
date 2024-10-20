@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: thakur repository
+Suite: thakur
+Date: Sun, 20 Oct 2024 20:29:51 UTC
+Components: main
+MD5Sum:
+ 2f55719866b05f0030d5524b52b5bdc1 547 main/binary-all/Packages
+ 990f2fec4c2dae4d71cc78a8adef3887 480 main/binary-all/Packages.xz
+ 03ee17b6c62e8e02164111e5365091b7 651 main/Contents-all
+ a8d01b45e5df09a014e28016648df290 212 main/Contents-all.xz
+SHA1:
+ 169120fd69ecceb6714b80aae46c7d352963391f 547 main/binary-all/Packages
+ bf6f9a5516ce6571ec2aeaee1902e2088d8befb8 480 main/binary-all/Packages.xz
+ d8ee1938e2aeb3efba91d6f372124c1d6dee16aa 651 main/Contents-all
+ 40bea778b8f5361def5613dca642d541810cd2bf 212 main/Contents-all.xz
+SHA256:
+ 72eee56aaa0a81621e9718b9820c74d9b92c207c5fdee4b9dfdd957c4d29c242 547 main/binary-all/Packages
+ ba879270ea8b709845a5ba3227cf6cab3553535d6dad918ea6eb5220ab40803e 480 main/binary-all/Packages.xz
+ 2ee85951fbc925c2ac2c6b5d263fbbef8962cf534d8c473d097090f310d157a8 651 main/Contents-all
+ 48b5d720fcad799739b6fc50f4197046883671510475182f62782aa4d959b61f 212 main/Contents-all.xz
+SHA512:
+ a62ffcf1da1f78e5f8a619a884026b8af49cc56dc22c8edaa94d53a8c1e0f145cbb3ea99364997d6827c07482d47df79354fa45a869fe7ada4fc5f1f5bf489e6 547 main/binary-all/Packages
+ 088f617a9b6707e8b9ba89ab5f0efee3fe4236fbaa504fc17e67fa0c7a2bc7e6efb9fa13441feb5066524807d7e870ab35d17d1547a6abc7da9195f41aa354ca 480 main/binary-all/Packages.xz
+ 8b13e375107db26bb3549546561fae6a4a20e11769a4bf4080c3f381fb4f01972cacfb343a3008181e16f5cf6ee523db34cd395bedbb3a2b77a34049d9012500 651 main/Contents-all
+ bf0184993b5410151f801f7b4fcc069e359afcb8da834fc3985c305bd173b5ee1281ea3bc1cbc5709eb5d98c4e5f00bf9dfaf2139554e55e1a24fecb6417dde8 212 main/Contents-all.xz

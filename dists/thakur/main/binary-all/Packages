@@ -1,0 +1,14 @@
+Package: alienkrishn
+Architecture: all
+Version: 1.0.4
+Depends: eza,fish,starship
+Installed-Size: 89
+Maintainer: Alienkrishn ~Anon4You
+Description: alienkrishn repo usage helper...
+Filename: dists/thakur/main/binary-all/alienkrishn.deb
+Size: 901196
+MD5Sum: 46436d0a19ee3c42027d607f2f8e0255
+SHA1: fde48f7039af982d6dc9ef2deb4a4760667b0b6d
+SHA256: 9b8c1cd791c208afc3284c7170b3744d995703ae64a00c53a594c12f31c51025
+SHA512: 82d0109011b9e64f93925530b12eda6e311a197eb298b6e30bec43fd09bd5c4434c4c16f75a808bc3952d578b16c5d09c1f6ba2142b24cab2900dd5e0d811557
+
